@@ -1,0 +1,8 @@
+# Never commit Solana keypair files (private keys)
+mint-authority*.json
+*.keypair.json
+*-keypair.json
+
+# Local config
+*.log
+.DS_Store
