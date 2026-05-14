@@ -2,5 +2,15 @@
   "name": "DevTest",
   "symbol": "DTST",
   "description": "Devnet rehearsal for an upcoming gift token. Ignore.",
-  "image": "https://raw.githubusercontent.com/aviElmaleh/splitter-token/main/placeholder.png"
+  "image": "https://raw.githubusercontent.com/aviElmaleh/splitter-token/main/placeholder.png",
+  "external_url": "https://github.com/aviElmaleh/splitter-token",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/aviElmaleh/splitter-token/main/placeholder.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
