@@ -1,0 +1,16 @@
+{
+  "name": "Splitter",
+  "symbol": "OHAD",
+  "description": "Happy birthday, Ohad! Minted with love on May 13, 2026 — your very own token to keep, share, or grow. Best luck, Avi.",
+  "image": "https://cdn.jsdelivr.net/gh/aviElmaleh/splitter-token@main/logo-clean.png",
+  "external_url": "https://github.com/aviElmaleh/splitter-token",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/aviElmaleh/splitter-token@main/logo-clean.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
