@@ -1,8 +1,19 @@
-# Never commit Solana keypair files (private keys)
+# NEVER commit Solana keypair files (private keys)
+# Broad patterns to catch any keypair-like JSON
 mint-authority*.json
+mint-*.json
+*-authority*.json
+*authority*.json
+*-friend*.json
+*friend*.json
+*-recipient*.json
+*recipient*.json
+*-mainnet.json
+*-devnet.json
 *.keypair.json
 *-keypair.json
 
-# Local config
+# Local secrets / cache
+.pinata-jwt
 *.log
 .DS_Store
